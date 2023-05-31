@@ -3,7 +3,7 @@
 Selenium automation script for logging into an amazon account. 
 
 Ordering 3 products with some filter strategy :
-1. first product - searching for an product 
+1. first product - searching unique product in the search bar
 2. second product - Existing product in the cart
 3. third product - choosing product from wishlist
 
